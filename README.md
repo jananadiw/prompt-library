@@ -7,3 +7,7 @@ Prompts I actually use to build and ship things. Each prompt includes the work i
 ### macOS
 
 - [macOS Shipping Advocate](macos/shipping-advocate.md) — polish, sign, notarize, package, and publish a macOS app.
+
+### Systems
+
+- [Codebase Architecture Reverse Engineering](systems/architecture-reverse-engineering.md) — derive a system's real architecture from its code and map it in Mermaid.
