@@ -60,7 +60,7 @@ The single idea holding it together: architecture is defined at the edges and th
 
 ## Where I used it
 
-Not documented yet. Add a link to the codebase or resulting architecture artifact before treating this page as proven.
+Used to reverse-engineer the architecture of [codex-tldraw-mcp](https://github.com/jananadiw/codex-tldraw-mcp), a local MCP server that scans repositories and writes tldraw product workflow diagrams.
 
 ## Known limits
 
@@ -72,4 +72,4 @@ Not documented yet. Add a link to the codebase or resulting architecture artifac
 
 ## Last tested
 
-Not recorded.
+2026-08-01, with [codex-tldraw-mcp](https://github.com/jananadiw/codex-tldraw-mcp).
