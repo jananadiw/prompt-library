@@ -4,6 +4,10 @@ Prompts I actually use to build and ship things. Each prompt includes the work i
 
 ## Prompts
 
+### Automations
+
+- [Conservative Codebase Cleanup Automation](automations/conservative-codebase-cleanup.md) — remove evidence-backed dead code across all open Git projects and open a separate verified pull request for each repository with valid changes.
+
 ### macOS
 
 - [macOS Shipping Advocate](macos/shipping-advocate.md) — polish, sign, notarize, package, and publish a macOS app.
